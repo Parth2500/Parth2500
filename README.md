@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Parth2500
 - 👀 I’m interested in learning something new everyday
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on anyproject that is interesting and informative.
 - 📫 pmakawana257@gmail ,linkedin.com/in/parth-makawana-565260178
 
