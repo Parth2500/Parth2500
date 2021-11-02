@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning something new everyday
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on anyproject that is interesting and informative.
-- 📫 pmakawana257@gmail ,linkedin.com/in/parth-makawana-565260178
+- 📫 pmakawana257@gmail, linkedin.com/in/parth-makawana-565260178
 
 <!---
 Parth2500/Parth2500 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
